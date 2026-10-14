@@ -1,0 +1,6 @@
+dist/
+node_modules/
+docs/menu-research.pdf
+docs/menu-research.png
+docs/menu-page-*.png
+docs/qa-*.png
